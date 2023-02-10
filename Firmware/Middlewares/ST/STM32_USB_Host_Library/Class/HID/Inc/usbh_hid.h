@@ -130,6 +130,8 @@ typedef enum
 {
   HID_MOUSE    = 0x01,
   HID_KEYBOARD = 0x02,
+
+
   HID_UNKNOWN = 0xFF,
 }
 HID_TypeTypeDef;

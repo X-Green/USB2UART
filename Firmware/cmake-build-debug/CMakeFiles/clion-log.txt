@@ -1,5 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S D:\Projects\USB2UART\Firmware -B D:\Projects\USB2UART\Firmware\cmake-build-debug
--- Minimal optimization, debug info included
--- Configuring done
--- Generating done
--- Build files have been written to: D:/Projects/USB2UART/Firmware/cmake-build-debug
